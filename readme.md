@@ -35,7 +35,7 @@ Please install MongoDB in your machine if you have not done already. Checkout th
 
 <h2>Project Description</h2>
   <b>Project Name : Almabetter (backend) Capstone project "get-youtube-subscribers" Restful API </b>
-  <a href="https://get-youtube-subscribers.onrender.com/subscribers"> Live Here</a>
+  <a href="https://get-youtube-subscribers.onrender.com/api/subscribers"> Live Here</a>
   
  
  <br>
