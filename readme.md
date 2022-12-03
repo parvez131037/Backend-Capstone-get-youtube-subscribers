@@ -175,7 +175,7 @@ subscriber name.
 
 Github link of that project-
 
-+ URL: `paste the url here` <br></br><img src="" width="1400" height="600"/><br></br>
++ URL: `paste the url here` <br></br>
 
 # Preview
 ![](https://github.com/parvez131037/get-youtube-subscribers-frontend-/blob/main/src/assets/front.gif)
