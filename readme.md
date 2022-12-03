@@ -175,9 +175,5 @@ Github link of frontend app-
 
 + URL: `https://github.com/parvez131037/get-youtube-subscribers-frontend-` <br></br>
 
-Deployed link of frontend app-
-
-+ URL: `https://almabetter-frontend-get-youtube.onrender.com/` <br></br>
-
 # Preview
 ![](https://github.com/parvez131037/get-youtube-subscribers-frontend-/blob/main/src/assets/front.gif)
