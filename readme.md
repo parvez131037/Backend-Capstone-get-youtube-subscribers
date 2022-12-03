@@ -67,7 +67,7 @@ We’ll heavily use ES6 features like let, const, arrow functions, promises etc.
 ## Installation
 ```sh
 $ git clone https://github.com/parvez131037/Backend-Capstone-get-youtube-subscribers.git
-$ cd express-mongoose-rest-api
+$ cd Backend-Capstone-get-youtube-subscribers
 $ npm install
 $ npm start
 ```
