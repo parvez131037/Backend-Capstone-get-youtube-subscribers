@@ -35,7 +35,7 @@ Please install MongoDB in your machine if you have not done already. Checkout th
 
 <h2>Project Description</h2>
   <b>Project Name : Almabetter (backend) Capstone project "get-youtube-subscribers" Restful API </b>
-  <a href="https://get-youtube-subscribers.onrender.com"> Live Here</a>
+  <a href="https://get-youtube-subscribers.onrender.com/subscribers"> Live Here</a>
   
  
  <br>
@@ -43,7 +43,7 @@ Please install MongoDB in your machine if you have not done already. Checkout th
 
 <b>Languages and Tools used: </b>  
  <div>
-  <img src="https://img.icons8.com/offices/512/express-js.png" title="Express js" alt="Express js" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/offices/512/express-js.png" title="Express js" alt="Express js" width="50" height="50"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/detain/svg-logos/blob/master/svg/mongoose-1.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
@@ -174,7 +174,7 @@ subscriber name.
 
 Github link of that project-
 
-+ URL: `paste the url here` <br></br>
++ URL: `https://github.com/parvez131037/get-youtube-subscribers-frontend-` <br></br>
 
 # Preview
 ![](https://github.com/parvez131037/get-youtube-subscribers-frontend-/blob/main/src/assets/front.gif)
