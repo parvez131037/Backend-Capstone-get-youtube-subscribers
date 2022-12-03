@@ -64,6 +64,10 @@ Finally, we’ll test our REST APIs using Postman.
 
 We’ll heavily use ES6 features like let, const, arrow functions, promises etc. 
 
+### API Schema Documentation 
+
++ URL: `https://documenter.getpostman.com/view/23674753/2s8Ysp2b4h` <br></br>
+
 ## Installation
 ```sh
 $ git clone https://github.com/parvez131037/Backend-Capstone-get-youtube-subscribers.git
@@ -165,12 +169,7 @@ This request delete a subscriber with specific id.
 <b>Key Features:</b><br>
   <b>➤ Validation:</b>  This application uses @happi/joi validation. Validating data can be very helpful in making sure that your application is stable and secure. Hapi allows this functionality by using the module Joi, which allows you to create your validations with a simple and clear object syntax.
   
-  <b>➤User Experience</b> This is a optional but usable frontend  part. It allows user to see the list of all subscribers with respect to its _id field, subscriber name, subscribed channel and subscribed date and time instance. This application has a search bar component. By the help of search bar user can search required data of a one subscriber in a huge amount of listed subscribers, serach by 
-subscriber name.
-
-+ Note: You have to configure a proxy in the package.json file of the React project. This allows the app to “pretend” it is making requests from the same port of the server.
-
-+ "proxy": `"http://localhost:<SERVER_PORT_NUMBER>/"`
+  <b>➤User Experience</b> This is a optional but usable frontend  part. Frontend app that lists all the available subscribers in the database. The following application covers how to fetch information from our API and then displaying it in the form of a table to the user.. In this project i uses our project created deployed API 
 
 Github link of that project-
 

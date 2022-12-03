@@ -8,7 +8,7 @@ const subscriberModel = require('./models/subscribers')
 const data = require('./data')
 
 // Connect to DATABASE
-const DATABASE_URL = "mongodb://localhost/subscribers";
+const DATABASE_URL = "mongodb://0.0.0.0/subscribers";
 // Set up default mongoose connection
 mongoose.connect(DATABASE_URL,{ useNewUrlParser: true, useUnifiedTopology: true });
 
