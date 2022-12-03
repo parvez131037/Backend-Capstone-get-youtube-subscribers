@@ -66,7 +66,8 @@ We’ll heavily use ES6 features like let, const, arrow functions, promises etc.
 
 ### API Schema Documentation 
 
-+ URL: `https://documenter.getpostman.com/view/23674753/2s8Ysp2b4h` <br></br>
++ API URL: `https://documenter.getpostman.com/view/23674753/2s8Ysp2b4h` <br></br>
++ Local host: `https://documenter.getpostman.com/view/23674753/2s8Ysp2b4h` <br></br>
 
 ## Installation
 ```sh
