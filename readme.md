@@ -44,15 +44,15 @@ Please install MongoDB in your machine if you have not done already. Checkout th
 
 <b>Languages and Tools used: </b>  
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express js" alt="Express js" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353724/express.svg" title="Express js" alt="Express js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/detain/svg-logos/blob/master/svg/mongoose-1.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="90" height="90"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="90" height="90"/>&nbsp;
  <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" title="Render app" alt="Render app" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40piotrkarpaa%2Fhandling-joi-validation-errors-in-hapi-17-26fc07448576&psig=AOvVaw30b564To_zIZXIPKpH-ZN0&ust=1670070871132000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDd4fr42vsCFQAAAAAdAAAAABAJ" title="Happi Joi validation" alt="Happi Joi validation" width="40" height="40"/>&nbsp; 
+  <img src="https://www.svgrepo.com/show/217753/github.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; 
+  <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" title="Happi Joi validation" alt="Happi Joi validation" width="40" height="40"/>&nbsp; 
   
 </div><br>
 
