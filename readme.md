@@ -35,21 +35,20 @@ Please install MongoDB in your machine if you have not done already. Checkout th
 
 <h2>Project Description</h2>
   <b>Project Name : Almabetter (backend) Capstone project "get-youtube-subscribers" Restful API </b>
-  <a href ="https://get-youtube-subscribers.onrender.com/subscribers"/>
+  <a href="https://get-youtube-subscribers.onrender.com"> Live Here</a>
   
-  Live Here
-  </a>
+ 
  <br>
  </br>
 
 <b>Languages and Tools used: </b>  
  <div>
-  <img src="https://www.svgrepo.com/show/353724/express.svg" title="Express js" alt="Express js" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/offices/512/express-js.png" title="Express js" alt="Express js" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/detain/svg-logos/blob/master/svg/mongoose-1.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="90" height="90"/>&nbsp;
- <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" title="Render app" alt="Render app" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+ <img src="https://upload.vectorlogo.zone/logos/render/images/bb711e6b-3dc7-496f-b665-10558e88ceed.svg" title="Render app" alt="Render app" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/217753/github.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" title="Happi Joi validation" alt="Happi Joi validation" width="40" height="40"/>&nbsp; 
@@ -67,7 +66,7 @@ We’ll heavily use ES6 features like let, const, arrow functions, promises etc.
 
 ## Installation
 ```sh
-$ git clone https://github.com/trionoputra/express-mongoose-rest-api.git
+$ git clone https://github.com/parvez131037/Backend-Capstone-get-youtube-subscribers.git
 $ cd express-mongoose-rest-api
 $ npm install
 $ npm start
