@@ -158,12 +158,12 @@ This request create multiple subscribers at one time. Data must be entered in an
 ]
 ```
 
-### DELETE `http://localhost:3000/subscriber/delete/:id`
+### DELETE `http://localhost:3000/subscribers/delete/:id`
 
 This request delete a subscriber with specific id.
 
 + Method: `DELETE`
-+ URL: `http://localhost:3000/subscriber/delete/6388da5b0c1189fa1438ef`
++ URL: `http://localhost:3000/subscribers/delete/6388da5b0c1189fa1438ef`
 
 
 
